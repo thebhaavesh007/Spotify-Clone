@@ -25,7 +25,7 @@ script.js: JavaScript file handling the app's functionality.
 This project doesn't rely on any external libraries or frameworks. It's built using pure HTML, CSS, and JavaScript.
 
 ## Deployed Link
-[[https://github.com/your-username/spotify-clone.git](https://github.com/thebhaavesh007/Spotify-Clone.git](https://spotify-clone-823.netlify.app/))
+(https://spotify-clone-823.netlify.app/)
 ## Usage
 Navigate through the app using the provided navigation links.
 Use the search bar to find your favorite artists, albums, or tracks.
