@@ -12,7 +12,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/spotify-clone.git
+git clone [https://github.com/your-username/spotify-clone.git](https://github.com/thebhaavesh007/Spotify-Clone.git)
 Open the project folder in your preferred code editor.
 
 Launch the app by opening the index.html file in a web browser.
